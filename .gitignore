@@ -165,3 +165,4 @@ cython_debug/
 .vscode/
 .DS_Store
 C1/W4/ungraded_labs/*human/
+C2/W1/ungraded_lab/cats_and_dogs_filtered
