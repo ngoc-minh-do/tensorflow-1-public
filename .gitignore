@@ -164,3 +164,4 @@ cython_debug/
 # custom config
 .vscode/
 .DS_Store
+C1/W4/ungraded_labs/*human/
